@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Datasets and model weights (downloaded at runtime, not versioned)
+aclImdb/
+aclImdb_v1.tar.gz
+data/
+datasets_cache/
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Logs and experiment tracking
+neptune_logs/
+wandb/
+runs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# OS
+desktop.ini
