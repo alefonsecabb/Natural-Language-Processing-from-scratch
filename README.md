@@ -24,9 +24,9 @@ This repository walks through **seven decades of Natural Language Processing**, 
 
 ## Why this repository
 
-I built this repo while studying NLP during the 5th semester of my **Data Science** undergraduate program at FATEC (São Paulo, Brazil). It started as a way to consolidate my coursework — but quickly became something I wanted to share with prospective employers as proof that I can take a technique from a paper, implement it cleanly, and explain *why* it works.
+I built this repo while studying NLP during the 5th semester of my **Data Science** undergraduate program at FATEC (São Paulo, Brazil). It started as a way to consolidate my coursework — but quickly became something I wanted to share, implement it cleanly, and explain *why* it works.
 
-If you are a recruiter or hiring manager: every notebook in this repo is **self-contained**, **runnable end-to-end**, and **annotated in English** with the same level of care I would put into production code.
+Every notebook in this repo is **self-contained**, **runnable end-to-end**, and **annotated in English** with the same level of care I would put into production code.
 
 If you are a fellow learner: I hope the progression `BoW → Embeddings → Self-Attention → BERT → LLMs` makes the field click for you the way it did for me.
 
